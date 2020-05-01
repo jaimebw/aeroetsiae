@@ -9,7 +9,7 @@ Lo que cálcula este programa son:
 - Los coeficientes Glauert para el espesor(B0,B1,...Bn)
 - El coeficiente de presiones para el espesor, extrados e intrados
 ## Funcionamiento del ejecutable de Python
-Se pone el DNI y se ejecuta, y acto seguido se genera en archivo .csv con todos los datos anteriores.
+Se pone el DNI y se ejecuta, y acto seguido se generaran varios archivos .csv en una caperta con todos los datos anteriores.
 ## Dependencias
 Para poder usar el libro se necesita instalar las librerias:
 - Pandas( https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
