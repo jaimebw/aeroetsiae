@@ -18,6 +18,6 @@ Para poder usar el libro se necesita instalar las librerias:
 - Matplotlib(solo el libro)(https://matplotlib.org/3.2.1/users/installing.html)
 
 ## Futuro
-Estoy intentando crear archivo un ejecutable para Windows(.exe) para quien no sepa usar Python
+Estoy intentando crear archivo un ejecutable para Windows(.exe) para quien no sepa usar Python, y una página con la documentación para implementar esto cómo un paquete.
 ## Contribuciones
 Este programa calcula lo necesario para poder hacer el trabajo, no obstante, si se quiere realizar alguna modificación o mejorar el código eres más que bienvenido a hacerlo. Haz una pull request o un fork y modificalo como quieras.
