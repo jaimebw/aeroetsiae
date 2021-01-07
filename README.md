@@ -1,4 +1,5 @@
 # Aeroetsiae: Repositorio del trabajo de Aerodinámica NSA de 3º del Grado en Ingeniería Aeroespacial ETSIAE(UPM)
+(En desarrollo / In development)
 [ 🇪🇸 ](https://github.com/jaimebw/aeroetsiae/blob/master/README.md)             [ 🇬🇧 ](https://github.com/jaimebw/aeroetsiae/blob/master/README_eng.md)
 ## Introducción
 Dentro de esta repo se encuentra una formulación de la teoría potencial linealizada para perfiles NACA de 4 cifras. La clase permite generar todo los datos, exportalos y representarlos.
