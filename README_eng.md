@@ -1,22 +1,22 @@
-# Aeroetsiae: Repositorio del trabajo de Aerodinámica NSA de 3º del Grado en Ingeniería Aeroespacial ETSIAE(UPM)
-(En desarrollo / In development)
+# Aeroetsiae:Repository with the airfoil theory for the uni Aeroespacial ETSIAE(UPM)
 [ 🇪🇸 ](https://github.com/jaimebw/aeroetsiae/blob/master/README.md)             [ 🇬🇧 ](https://github.com/jaimebw/aeroetsiae/blob/master/README_eng.md)
-## Introducción
-Dentro de esta repo se encuentra una formulación de la teoría potencial linealizada para perfiles NACA de 4 cifras. La clase permite generar todo los datos, exportalos y representarlos.
+## Introducction
 
-## Instalación
-Por ahora, solo tienes que descargarte la carpeta ```aerodynamics``` y ponerlo en tu directorio de trabajo.
-Una vez hecho eso, poner esta frase en tu libro o script para exportar la clase:
+This repo has a implementation of linealize potenthial teorhy for 4 digits NACA airfoils.
+
+## Installation
+At the moment, you have to download the folder ```aerodynamics```  and add it to your working dir.
+Once that is done, you shall write the next code:
 ```python
 from aerodynamics.aero import airfoil
 dni = "1234567"
 perfil = airfoil(dni)
 S
 ```
-Se recomienda usar [Jupyter Lab/Books](https://www.anaconda.com/products/individual) 
-## Calculo y funciones incluidas
+It is recommeneded using [Jupyter Lab/Books](https://www.anaconda.com/products/individual) 
+## Possible calculations with this library
 
-Lo que cálcula este programa son:
+- Glauert coeficientes for the airfoil with 
 - Los coeficientes de Glauert para el perfil sin/solo o con Timon
 - Los coeficientes de sustentación y de presiones para el perfil sin/solo o con Timon
 - Los coeficientes de charnela para el perfil sin o con Timon
